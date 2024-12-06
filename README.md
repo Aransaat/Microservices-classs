@@ -8,6 +8,7 @@ cd /path/to/your/directory
  git push origin master 
  git branch assignment1
  git checkout assignment1
+ git push origin assignment1
  mkdir assignment-work
  cd assignment-work
  touch submission.md
